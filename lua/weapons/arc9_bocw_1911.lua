@@ -784,15 +784,18 @@ SWEP.Animations = {
     },
     ["enter_sprint_empty"] = {
         Source = "supersprint_in_empty",
-        Time = 2
+        Time = 0.75,
+        NoStatAffectors = true
     },
     ["idle_sprint_empty"] = {
         Source = "sprint_loop_empty",
-        Time = 3
+        Time = 3,
+        NoStatAffectors = true
     },
     ["exit_sprint_empty"] = {
         Source = "sprint_out_empty",
-        Time = 0.4
+        Time = 0.4,
+        NoStatAffectors = true
     },
     ["enter_inspect"] = {
         Source = "inspect",
