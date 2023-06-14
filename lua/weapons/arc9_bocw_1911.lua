@@ -532,7 +532,7 @@ SWEP.AttachmentTableOverrides = {
 
 SWEP.Attachments = {
     {
-        PrintName = "Optic", -- print name
+        PrintName = "OPTIC", -- print name
         Bone = "tag_weapon",
         Pos = Vector(1.25, 0, 3.34),
         Ang = Angle(0, 0, 0),
@@ -542,7 +542,7 @@ SWEP.Attachments = {
         InstalledElements = {"optic_mount"},
     },
     {
-        PrintName = "Muzzle",
+        PrintName = "MUZZLE",
         Bone = "tag_weapon",
         Pos = Vector(7.02, 0, 2.557),
         Ang = Angle(0, 0, 0),
@@ -551,7 +551,7 @@ SWEP.Attachments = {
         Integral = false
     },
     {
-        PrintName = "Tactical",
+        PrintName = "BODY",
         Bone = "tag_weapon",
         Pos = Vector(5.3, 0, 1.5),
         Ang = Angle(0, 0, 0),
@@ -559,7 +559,7 @@ SWEP.Attachments = {
         Category = {"bocw_body_1911"},
     },
     {
-        PrintName = "Barrel",
+        PrintName = "BARREL",
         Bone = "tag_barrel",
         Pos = Vector(0, 0, 0),
         Ang = Angle(0, 0, 0),
@@ -567,7 +567,7 @@ SWEP.Attachments = {
         Category = {"bocw_1911_barrel"},
     },
     {
-        PrintName = "Magazine",
+        PrintName = "MAGAZINE",
         DefaultName = "30 Rnd",
         Bone = "tag_clip",
         Pos = Vector(0, 0, 0),
@@ -581,7 +581,7 @@ SWEP.Attachments = {
         Category = {"bocw_1911_mag"},
     },
     {
-        PrintName = "Handle",
+        PrintName = "HANDLE",
         Bone = "tag_weapon",
         Pos = Vector(0.4, 0, 0.4),
         Ang = Angle(0, 0, 0),
@@ -590,7 +590,7 @@ SWEP.Attachments = {
     },
     {
         PrintName = "Cosmetic",
-        DefaultCompactName = "Skin",
+        DefaultCompactName = "CAMO",
         DefaultIcon = Material("arc9/def_att_icons/skin.png"),
         Bone = "tag_weapon",
         Pos = Vector(5, 0, 0),

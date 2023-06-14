@@ -553,7 +553,7 @@ SWEP.AttachmentTableOverrides = {
 
 SWEP.Attachments = {
     {
-        PrintName = "Optic", -- print name
+        PrintName = "OPTIC", -- print name
         Bone = "tag_weapon",
         Pos = Vector(0, 0, 0),
         Ang = Angle(0, 0, 0),
@@ -563,7 +563,7 @@ SWEP.Attachments = {
         InstalledElements = {"optic_mount"},
     },
     {
-        PrintName = "Muzzle",
+        PrintName = "MUZZLE",
         Bone = "tag_weapon",
         Pos = Vector(10.804, 0, 3.355),
         Ang = Angle(0, 0, 0),
@@ -572,7 +572,7 @@ SWEP.Attachments = {
         Integral = false
     },
     {
-        PrintName = "Tactical 1",
+        PrintName = "BODY 1",
         Bone = "tag_weapon",
         Pos = Vector(0, 0, 0),
         Ang = Angle(0, 0, 0),
@@ -580,7 +580,7 @@ SWEP.Attachments = {
         Category = {"bocw_body1_magnum"},
     },
     {
-        PrintName = "Tactical 2",
+        PrintName = "BODY 2",
         Bone = "tag_weapon",
         Pos = Vector(0, 0, 0),
         Ang = Angle(0, 0, 0),
@@ -588,7 +588,7 @@ SWEP.Attachments = {
         Category = {"bocw_body2_magnum"},
     },
     {
-        PrintName = "Barrel",
+        PrintName = "BARREL",
         Bone = "tag_barrel",
         Pos = Vector(0, 0, 0),
         Ang = Angle(0, 0, 0),
@@ -596,7 +596,7 @@ SWEP.Attachments = {
         Category = {"bocw_magnum_barrel"},
     },
     {
-        PrintName = "Cylinder",
+        PrintName = "CYLINDER",
         DefaultName = "30 Rnd",
         Bone = "tag_clip_crane_animate",
         Pos = Vector(0, 0, 0),
@@ -605,7 +605,7 @@ SWEP.Attachments = {
         Category = {"bocw_magnum_mag"},
     },
     {
-        PrintName = "Handle",
+        PrintName = "HANDLE",
         Bone = "tag_weapon",
         Pos = Vector(0, 0, 0),
         Ang = Angle(0, 0, 0),
@@ -614,7 +614,7 @@ SWEP.Attachments = {
     },
     {
         PrintName = "Cosmetic",
-        DefaultCompactName = "Skin",
+        DefaultCompactName = "CAMO",
         DefaultIcon = Material("arc9/def_att_icons/skin.png"),
         Bone = "tag_weapon",
         Pos = Vector(5, 0, 0),

@@ -418,7 +418,7 @@ SWEP.HolsterAng = Angle(0, -15, 25)
 --}
 
 -- Position for customizing
-SWEP.CustomizeAng = Angle(90, 0, -1)
+SWEP.CustomizeAng = Angle(88, 0, -1)
 SWEP.CustomizePos = Vector(18, 30, 4)
 SWEP.CustomizeRotateAnchor = Vector(18, -1.88, -4)
 
@@ -538,7 +538,7 @@ SWEP.AttachmentTableOverrides = {
 
 SWEP.Attachments = {
     {
-        PrintName = "Optic", -- print name
+        PrintName = "OPTIC", -- print name
         Bone = "tag_weapon",
         Pos = Vector(1.25, 0, 3.34),
         Ang = Angle(0, 0, 0),
@@ -548,7 +548,7 @@ SWEP.Attachments = {
         InstalledElements = {"optic_mount"},
     },
     {
-        PrintName = "Muzzle",
+        PrintName = "MUZZLE",
         Bone = "tag_weapon",
         Pos = Vector(7.086, 0, 2.66),
         Ang = Angle(0, 0, 0),
@@ -565,7 +565,7 @@ SWEP.Attachments = {
         Hidden = true
     },
     {
-        PrintName = "Tactical",
+        PrintName = "BODY",
         Bone = "tag_weapon",
         Pos = Vector(5.9, 0.5606, 2.18),
         Ang = Angle(0, 0, 0),
@@ -573,7 +573,7 @@ SWEP.Attachments = {
         Category = {"bocw_body_diamatti"},
     },
     {
-        PrintName = "Barrel",
+        PrintName = "BARREL",
         Bone = "tag_weapon",
         Pos = Vector(0, 0, 0),
         Ang = Angle(0, 0, 0),
@@ -581,7 +581,7 @@ SWEP.Attachments = {
         Category = {"bocw_diamatti_barrel"},
     },
     {
-        PrintName = "Magazine",
+        PrintName = "MAGAZINE",
         DefaultName = "30 Rnd",
         Bone = "tag_clip",
         Pos = Vector(0, 0, 0),
@@ -595,7 +595,7 @@ SWEP.Attachments = {
         Category = {"bocw_diamatti_mag"},
     },
     {
-        PrintName = "Handle",
+        PrintName = "HANDLE",
         Bone = "tag_weapon",
         Pos = Vector(0.55, 0, 0.3),
         Ang = Angle(10, 0, 0),
@@ -604,10 +604,10 @@ SWEP.Attachments = {
     },
     {
         PrintName = "Cosmetic",
-        DefaultCompactName = "Skin",
+        DefaultCompactName = "CAMO",
         DefaultIcon = Material("arc9/def_att_icons/skin.png"),
         Bone = "tag_weapon",
-        Pos = Vector(4, 0, -1),
+        Pos = Vector(3, 0, -1),
         Ang = Angle(0, 0, 0),
         Category = {"universal_camo"},
         CosmeticOnly = true,
