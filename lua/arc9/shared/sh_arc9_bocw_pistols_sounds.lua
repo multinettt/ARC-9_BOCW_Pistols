@@ -265,13 +265,6 @@ sound.Add({
     name = "ARC9_BOCW.Magnum_draw",
     channel = CHAN_AUTO,
     volume = 1.0,
-    sound = { "weapons/arc9/bocw_magnum/Magnum_draw1.wav", "weapons/arc9/bocw_magnum/Magnum_draw2.wav", "weapons/arc9/bocw_magnum/Magnum_draw3.wav" }
-})
-
-sound.Add({
-    name = "ARC9_BOCW.Magnum_draw",
-    channel = CHAN_AUTO,
-    volume = 1.0,
     sound = "weapons/arc9/bocw_magnum/Magnum_draw.wav"
 })
 
