@@ -50,7 +50,9 @@ SWEP.Credits = {
 
 SWEP.Description = [[Semi-auto pistol. Good accuracy with a modest ammo capacity. High damage in close range encounters.
 
-The M1911 is an American semi-automatic pistol featured in almost every installment of the Call of Duty series. It is the most frequently shown weapon in the series.]]
+The M1911 is an American semi-automatic pistol featured in almost every installment of the Call of Duty series. It is the most frequently shown weapon in the series.
+
+The 1911 returns in Call of Duty: Black Ops Cold War.]]
 
 SWEP.UseHands = true
 

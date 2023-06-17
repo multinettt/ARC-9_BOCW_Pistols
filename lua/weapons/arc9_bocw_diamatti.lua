@@ -50,7 +50,9 @@ SWEP.Credits = {
 
 SWEP.Description = [[3-round burst pistol. Fast cyclic rate of fire with a short delay between bursts. Increased ammo capacity and slightly slower reloading speeds.
 
-The Beretta M93 Raffica is a burst-fire machine pistol featured in Call of Duty: Modern Warfare 2, Call of Duty Online and Call of Duty: Black Ops Cold War. It was cut from Call of Duty: Modern Warfare 3. ]]
+The Beretta M93 Raffica is a burst-fire machine pistol featured in Call of Duty: Modern Warfare 2, Call of Duty Online and Call of Duty: Black Ops Cold War. It was cut from Call of Duty: Modern Warfare 3.
+
+The M93 Raffica returns in Call of Duty: Black Ops Cold War as the Diamatti, but this time, It does not have a stock.]]
 
 SWEP.UseHands = true
 
@@ -543,7 +545,7 @@ SWEP.Attachments = {
         Pos = Vector(1.25, 0, 3.34),
         Ang = Angle(0, 0, 0),
         Icon_Offset = Vector(3.1, -0.5, -1.6),
-        DefaultName = "Iron Sights",
+        CorrectiveAng = Angle(-3, 1, 0), -- i fucking love you arctic or whoever coded this
         Category = {"bocw_diamatti_opticmount"},
         InstalledElements = {"optic_mount"},
     },
