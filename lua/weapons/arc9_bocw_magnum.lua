@@ -648,6 +648,10 @@ SWEP.Hook_TranslateAnimation = function(swep, anim)
         return anim .. "_mix"
     end
 
+    if elements["magnum_mag_44"] then
+        return anim .. "_44"
+    end
+
 end
 
 SWEP.Animations = {
@@ -683,8 +687,14 @@ SWEP.Animations = {
     ["fire"] = {
         Source = {"fire"},
     },
+    ["fire_44"] = {
+        Source = {"fire_first"},
+    },
     ["fire_empty"] = {
         Source = "fire_empty",
+    },
+    ["fire_empty_44"] = {
+        Source = "fire_first",
     },
     ["reload_start"] = {
         Source = "reload_in",

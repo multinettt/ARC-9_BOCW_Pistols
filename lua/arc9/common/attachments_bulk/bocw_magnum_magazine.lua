@@ -120,7 +120,7 @@ ATT.RecoilSideMult = 1.35
 ATT.AimDownSightsTimeMult = 1.15
 ATT.ReloadTimeMult = 1.3
 
-ATT.ActivateElements = {"magnum_mag_ext", "maggone"}
+ATT.ActivateElements = {"magnum_mag_ext", "magnum_mag_44", "maggone"}
 
 ARC9.LoadAttachment(ATT, "bocw_magnum_magazine_extpro")
 
@@ -177,7 +177,7 @@ ATT.RecoilSideMult = 1.35
 ATT.MultAimDownSightsTime = 1.25
 ATT.ReloadTimeMult = 0.35
 
-ATT.ActivateElements = {"magnum_mag_mix", "maggone", "moonclippro"}
+ATT.ActivateElements = {"magnum_mag_mix", "magnum_mag_44", "maggone", "moonclippro"}
 
 ATT.ShotgunReload = false
 
