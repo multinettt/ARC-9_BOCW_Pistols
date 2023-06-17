@@ -453,3 +453,33 @@ sound.Add({
     volume = 1,
     sound = "weapons/arc9/bocw_diamatti/diamatti_fire_interior.wav"
 })
+
+--[[
+
+17.06.2023
+
+There was TYT(Basic Sufficiency Test) today.
+
+That means you have to solve this math question!!!
+----------------------------------------------------------------------
+
+P(x) and Q(x) are non-constant polynomes and R(x) is a polynome of first degree.
+
+    P(x) = Q(x).R(x)
+
+So,
+
+  I. P(x) and R(x) have the same invariable.
+ II. If P(x)'s graph is parabolic, Q(x)'s graph is linear.
+III. All of Q(x)'s roots are also P(x)'s roots.
+
+which statements are always true? 
+
+A) Only II         B) Only III         C) I and II
+
+         D) I and III        E) II and III
+
+
+The answer will be revealed in 2 weeks.
+
+]]
