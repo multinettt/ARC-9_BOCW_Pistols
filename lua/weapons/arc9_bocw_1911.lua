@@ -679,6 +679,18 @@ SWEP.Animations = {
         Source = {"fire"},
         EjectAt = 0,
     },
+    ["1_fire"] = {
+        Source = {"fire_a"},
+        EjectAt = 0,
+    },
+    ["2_fire"] = {
+        Source = {"fire_b"},
+        EjectAt = 0,
+    },
+    ["3_fire"] = {
+        Source = {"fire_c"},
+        EjectAt = 0,
+    },
     ["fire_optic"] = {
         Source = "fire_optic",
         EjectAt = 0,
