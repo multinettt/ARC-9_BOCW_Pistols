@@ -692,7 +692,7 @@ SWEP.Animations = {
         NoMagSwap = true,
         MinProgress = 0.65,
         EventTable = {
-            { s = "ARC9_BOCW.diamatti_reload_magout", t = 0.45 },
+            { s = "ARC9_BOCW.diamatti_reload_magout", t = 0.5 },
             { s = "ARC9_BOCW.diamatti_reload_magin", t = 0.8 },
             { s = "ARC9_BOCW.diamatti_reload_end", t = 1.3 },
             { hide = 2, t = 0 },
@@ -707,7 +707,7 @@ SWEP.Animations = {
         DropMagAt = 0.4,
         EventTable = {
             { s = "ARC9_BOCW.diamatti_reload_empty_magout", t = 0.25 },
-            { s = "ARC9_BOCW.diamatti_reload_magin", t = 0.98 },
+            { s = "ARC9_BOCW.diamatti_reload_magin", t = 0.9 },
             { s = "ARC9_BOCW.diamatti_slideback", t = 1.55 },
             { s = "ARC9_BOCW.diamatti_sliderelease", t = 1.65 },
             { s = "ARC9_BOCW.diamatti_reload_end", t = 2 },
@@ -720,7 +720,7 @@ SWEP.Animations = {
         Source = "reload_ext",
         MinProgress = 0.65,
         EventTable = {
-            { s = "ARC9_BOCW.diamatti_reload_magout", t = 0.45 },
+            { s = "ARC9_BOCW.diamatti_reload_magout", t = 0.5 },
             { s = "ARC9_BOCW.diamatti_reload_magin", t = 0.8 },
             { s = "ARC9_BOCW.diamatti_reload_end", t = 1.3 },
             { hide = 2, t = 0 },
@@ -736,7 +736,7 @@ SWEP.Animations = {
         DropMagAt = 0.4,
         EventTable = {
             { s = "ARC9_BOCW.diamatti_reload_empty_magout", t = 0.25 },
-            { s = "ARC9_BOCW.diamatti_reload_magin", t = 0.98 },
+            { s = "ARC9_BOCW.diamatti_reload_magin", t = 0.9 },
             { s = "ARC9_BOCW.diamatti_slideback", t = 1.55 },
             { s = "ARC9_BOCW.diamatti_sliderelease", t = 1.65 },
             { s = "ARC9_BOCW.diamatti_reload_end", t = 2 },

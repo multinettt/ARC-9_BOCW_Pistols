@@ -412,7 +412,7 @@ SWEP.HolsterAng = Angle(0, -15, 25)
 -- Position for customizing
 SWEP.CustomizePos = Vector(17, 30, 4)
 SWEP.CustomizeAng = Angle(90, -12, 0)
-SWEP.CustomizeRotateAnchor = Vector(18, -1.63, -5)
+SWEP.CustomizeRotateAnchor = Vector(17, -1.63, -5)
 
 SWEP.CustomizeSnapshotFOV = 70
 SWEP.CustomizeSnapshotPos = Vector(0, 0, 0)

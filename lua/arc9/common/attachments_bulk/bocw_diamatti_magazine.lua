@@ -168,7 +168,7 @@ ATT.ModelAngleOffset = Angle(0, 0, 0)
 
 ATT.ClipSizeOverride = 21
 
-ATT.MultAimDownSightsTime = 1.06
+ATT.AimDownSightsTimeMult = 1.25
 ATT.ReloadTimeMult = 0.6
 
 ATT.ActivateElements = {"diamatti_mag_mix", "maggone"}
