@@ -91,4 +91,6 @@ ATT.Attachments = {
 ATT.ModelOffset = Vector(0, 0, 0)
 ATT.ModelAngleOffset = Angle(0, 0, 0)
 
+ATT.ActivateElements = {"optic_mount"}
+
 ARC9.LoadAttachment(ATT, "bocw_diamatti_mount_optic")

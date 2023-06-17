@@ -640,6 +640,10 @@ SWEP.Hook_TranslateAnimation = function(swep, anim)
         return anim .. "_fast"
     end
 
+    if elements["optic_mount"] then
+        return anim .. "_optic"
+    end
+
 end
 
 SWEP.Animations = {
@@ -673,6 +677,14 @@ SWEP.Animations = {
     },
     ["fire_optic"] = {
         Source = "fire_optic",
+        EjectAt = 0,
+    },
+    ["fire_empty"] = {
+        Source = {"fire_empty"},
+        EjectAt = 0,
+    },
+    ["fire_optic_empty"] = {
+        Source = "fire_optic_empty",
         EjectAt = 0,
     },
     ["reload"] = {
