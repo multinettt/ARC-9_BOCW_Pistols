@@ -17,8 +17,8 @@ After a long long while I am finally finishing something up to release to the wo
 
 ## Personalization:
 
-Personalization by means of camo is available on these pistols. Here are some temporary links for cold war camos. They will also be released to the workshop soon.
+Personalization by means of camo is currently available on these three pistols. You can grab some cold war camos from these two workshop links below if you'd like.
 
-[Multiplayer Camo Pack](https://drive.google.com/file/d/1kIQ_FBIrPxHiLvj5anPex2r8ETsjOIiy/view?usp=sharing)
+[Multiplayer Camo Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2989163938)
 
-[Zombies Camo Pack](https://drive.google.com/file/d/1tRxhCJBShfAMNBydJd8yjiXYik7jyULg/view?usp=sharing)
+[Zombies Camo Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2989231579)
