@@ -4,6 +4,8 @@
 
 After a long long while I am finally finishing something up to release to the workshop. Here are three non-DLC pistols from COD:BOCW. They all have a lot of customizations that I'm too lazy to write here, check the workshop page. Oh and most importantly, Enjoy!
 
+## [ARC9 BOCW Pistols on Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2990670916)
+
 ## You need to have [Shared Content](https://github.com/multinettt/ARC-9_BOCW_Shared_Content) in order to avoid missing textures, materials and sounds.
 
 ## [BOCW Attachments](https://github.com/multinettt/ARC-9_BOCW_Attachments)
