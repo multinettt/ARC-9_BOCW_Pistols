@@ -271,7 +271,7 @@ SWEP.ShootPitchVariation = 0.05
 
 SWEP.FirstShootSound = nil                      -- First fire
 SWEP.ShootSound = "ARC9_BOCW.1911_fire"                            -- Fire
-SWEP.ShootSoundIndoor = "ARC9_BOCW.1911_fire_int_decay"                  -- Fire indoors
+--SWEP.ShootSoundIndoor = "ARC9_BOCW.1911_fire_int_decay"                  -- Fire indoors
 SWEP.ShootSoundSilenced = "ARC9_BOCW.1911_fire_silenced"                    -- Fire silenced
 SWEP.ShootSoundIndoorSilenced = nil             -- Fire indoors silenced
 SWEP.FirstShootSoundSilenced = nil              -- First fire silenced
