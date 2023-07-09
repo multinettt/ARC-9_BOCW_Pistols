@@ -480,6 +480,6 @@ A) Only II         B) Only III         C) I and II
          D) I and III        E) II and III
 
 
-The answer will be revealed in 2 weeks.
+ANSWER: E
 
 ]]
