@@ -132,7 +132,7 @@ SWEP.TracerSize = 0.5
 
 -------------------------- MAGAZINE
 
-SWEP.Ammo = "smg1" -- What ammo type this gun uses.
+SWEP.Ammo = "pistol" -- What ammo type this gun uses.
 
 SWEP.ChamberSize = 1 -- The amount of rounds this gun can chamber.
 SWEP.ClipSize = 7 -- Self-explanatory.
@@ -214,10 +214,6 @@ SWEP.VisualRecoilRoll = 0
 SWEP.VisualRecoilCenter = Vector(0, 0, 0)
 SWEP.VisualRecoilPunch = 0
 SWEP.VisualRecoilMultSights = 0
-
-
-SWEP.NPCWeaponType = "weapon_smg"
-SWEP.NPCWeight = 50
 
 -------------------------- HANDLING
 
