@@ -68,7 +68,7 @@ ATT.CompactName = [[6.45" HEAVY]]
 ATT.Icon = Material("entities/bocw_atts/barrels/1911_reinforced.png", "mips smooth")
 ATT.Description = [[Extended barrel with polygonal rifling to improve bullet velocity and damage range.
 
-The Reinforced Heavy barrel is an attachment type available for NATO related Assault Rifles, Submachine Guns, Pistols and Shotguns in Call of Duty: Black Ops Cold War. It increases damage range alongside increasing bullet velocity at the cost of movement speed while aiming and a minor decrease of sprinting speed. The Warsaw Pact equivalent is the VDV Reinforced Barrel,]]
+The Reinforced Heavy barrel is an attachment type available for NATO related Assault Rifles, Submachine Guns, Pistols and Shotguns in Call of Duty: Black Ops Cold War. It increases damage range alongside increasing bullet velocity at the cost of movement speed while aiming and a minor decrease of sprinting speed. The Warsaw Pact equivalent is the VDV Reinforced Barrel.]]
 
 ATT.SortOrder = 6.45
 
