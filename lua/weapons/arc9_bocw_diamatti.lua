@@ -534,6 +534,8 @@ SWEP.AttachmentTableOverrides = {
     -- }
 }
 
+SWEP.DuplicateAttachments = true
+
 SWEP.Attachments = {
     {
         PrintName = "OPTIC", -- print name
