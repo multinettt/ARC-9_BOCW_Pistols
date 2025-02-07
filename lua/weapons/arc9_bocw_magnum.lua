@@ -272,8 +272,8 @@ SWEP.DryFireSound = "ARC9_BOCW.Shared_DryFire_Revolver"
 SWEP.FiremodeSound = "arc9/firemode.wav"
 SWEP.ToggleAttSound = "items/flashlight1.wav"
 
-SWEP.EnterSightsSound = ""
-SWEP.ExitSightsSound = ""
+SWEP.EnterSightsSound = "ARC9_BOCW.Shared_ADS_In"
+SWEP.ExitSightsSound = "ARC9_BOCW.Shared_ADS_Out"
 
 SWEP.EnterBipodSound = "arc9/bipod_down.wav"
 SWEP.ExitBipodSound = "arc9/bipod_up.wav"
